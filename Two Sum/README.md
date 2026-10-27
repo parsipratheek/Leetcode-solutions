@@ -1,19 +1,39 @@
-1. Two Sum 
+# 415. Add Strings
+
+**LeetCode:** https://leetcode.com/problems/add-strings/
+
+**Difficulty:** Easy
+
+## Question
+
 You are given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
 You can return the answer in any order.
 
-Example 1:
-Input: nums = [2,7,11,15], target = 9
+## Example 1
 
-Output: [0,1]
+**Input:**
+```text
+num1 = "11", num2 = "123"
+```
 
-Explanation:
+**Output:**
+```text
+"134"
+```
 
-The sum of nums[0] and nums[1] is 2 + 7 = 9, which equals the target. Therefore, the indices [0, 1] are returned.
+**Explanation:** 11 + 123 = 134.
 
-Example 2:
+## Example 2
 
-Input: nums = [3,2,4], target = 6
+**Input:**
+```text
+num1 = "456", num2 = "77"
+```
 
-Output: [1,2]
+**Output:**
+```text
+"533"
+```
