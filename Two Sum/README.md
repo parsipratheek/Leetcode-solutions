@@ -1,4 +1,4 @@
-# 415. Add Strings
+# 1. Add Strings
 
 **LeetCode:** https://leetcode.com/problems/add-strings/
 
